@@ -12,7 +12,7 @@ source: <https://github.com/emilybache/GildedRose-Refactoring-Kata>
  
  ## Adding parameters in the main execution sys,argv
  
- ## Deviding the items into categories according to description. Creating inherited class of the 'normal' item
+ ## Dividing the items into categories according to description. Creating inherited class of the 'normal' Item class
  - special Item type 1 for Brie like items 
  - special Item type 2 for backstage items
  - special Item type 3 for the new item
@@ -23,3 +23,6 @@ source: <https://github.com/emilybache/GildedRose-Refactoring-Kata>
  - adjust quality
  - decrease days sel in
  - adjust quality when out of date
+
+## Using the distinction based on class in the function
+ - avoiding any card coded values 
