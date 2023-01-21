@@ -1,4 +1,4 @@
-# guilded_rose_solution
+# Gilded rose solution
 
 Small solution for job application assignment 
 
