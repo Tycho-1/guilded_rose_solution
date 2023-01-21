@@ -12,7 +12,7 @@ source: <https://github.com/emilybache/GildedRose-Refactoring-Kata>
  
  ## Adding parameters in the main execution sys,argv
  
- ## Dividing the items into categories according to description. Creating inherited class of the 'normal' Item class
+ ## Dividing the items into categories according to description. Creating inherited classes of the 'normal' Item class
  - special Item type 1 for Brie like items 
  - special Item type 2 for backstage items
  - special Item type 3 for the new item
