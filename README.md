@@ -24,5 +24,5 @@ source: <https://github.com/emilybache/GildedRose-Refactoring-Kata>
  - decrease days sel in
  - adjust quality when out of date
 
-## Using the distinction based on class in the function
- - avoiding any card coded values 
+## Using the distinction based on class in the functions
+ - avoiding any hard coded values 
