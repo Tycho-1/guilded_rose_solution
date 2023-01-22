@@ -31,8 +31,9 @@ if __name__ == "__main__":
                 if len(sys.argv)>4:
                     min_quality = int(sys.argv[4])
                     
-    print("Parameters used in current calculation are : days {} , \
-          max quality {}, min quality {}, step {}".format(days, max_quality, min_quality, step) )  
+    print("Parameters used in current calculation are : \
+          days {}, max quality {}, min quality {}, step {}". \
+              format(days, max_quality, min_quality, step) )  
               
     for day in range(days):
         print("-------- day %s --------" % day)
