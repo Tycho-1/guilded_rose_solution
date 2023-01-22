@@ -90,7 +90,7 @@ class ItemSpecial_const(Item):
 
 class ItemSpecial3(Item):
     """
-    Special item numbe 3 ; it will decreas in quality twice as fast as the other items
+    Special item numbe 3 ; it will decrease in quality twice as fast as the other items
     """
 
     
